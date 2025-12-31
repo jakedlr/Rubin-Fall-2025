@@ -1,4 +1,4 @@
-This repository contains all of the main files that I (Jake de los Reyes) worked on during the Fall 2025 semester at SDSU with Dr. Eric Sandquist
+This repository contains all of the main files that I (Jake de los Reyes) worked on during the Fall 2025 semester at SDSU with Dr. Eric Sandquist. If anything is confusing, please reach out to me at jakedlr01@gmail.com
 
 /Documents:
   -All pdfs are stored here
