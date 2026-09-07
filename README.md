@@ -14,5 +14,5 @@
 
 /Files:
   -There are two main things here
-    -> VeraRubinFall2025.twb, the main tableau file that we worked on this fall to compare different objects and their observations over time (using data from the Forced Source on DiaObject table aggregated within predictions_FSODO_3.csv and summary statistics within stats_with_KM_predictions.csv)
-    -> butlerQueries.ipynb, the main python notebook that we worked on this fall that queries cutouts to try to pinpoint what is going wrong with specific measurements that we suspect are erroneous
+  -> VeraRubinFall2025.twb, the main tableau file that we worked on this fall to compare different objects and their observations over time (using data from the Forced Source on DiaObject table aggregated within predictions_FSODO_3.csv and summary statistics within stats_with_KM_predictions.csv)
+  -> butlerQueries.ipynb, the main python notebook that we worked on this fall that queries cutouts to try to pinpoint what is going wrong with specific measurements that we suspect are erroneous
